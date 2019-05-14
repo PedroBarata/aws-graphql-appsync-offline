@@ -1,4 +1,8 @@
-# Offline
+# Build an Offline Web App (AWS AppSync | GraphQL | Angular)
+
+Vídeo: [vídeo](https://www.youtube.com/watch?v=nAIoheQ9iy8&list=PLvmxnsCyoh64Pbro7LpHvsuuNMRR8c0eK&index=4)
+
+## Offline
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
 
